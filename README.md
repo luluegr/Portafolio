@@ -1,6 +1,3 @@
-# Portafolio
-Este repositorio reúne proyectos de análisis de datos en Python, incluyendo visualización, análisis de series de tiempo y modelos estadísticos. Me he basado en la estructura del portafolio de un colega para organizarlo de manera clara y funcional.
-
 # Mi Portafolio de Análisis de Datos  
 
 Bienvenido/a a mi portafolio de proyectos en análisis de datos. Aquí encontrarás algunos de los trabajos que he realizado utilizando Python, incluyendo visualización de datos, modelos estadísticos y análisis de series de tiempo.  
