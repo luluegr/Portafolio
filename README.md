@@ -11,7 +11,7 @@ Bienvenido/a a mi portafolio de proyectos en análisis de datos. Aquí encontrar
 ## 🛠️ Tecnologías utilizadas  
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)  
-- SQL (PostgreSQL, SQLite)  
+- SQL (MySQL, PostgreSQL, SQLite)  
 - Jupyter Notebook  
 
 ## 🚀 Sobre mí  
